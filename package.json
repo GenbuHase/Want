@@ -1,0 +1,33 @@
+{
+	"private": true,
+	"name": "@genbuhase/want",
+	"version": "0.0.1",
+	"description": "「したい」をシェアするサービス",
+	"type": "module",
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare"
+	},
+	"dependencies": {
+		"@nuxt/eslint": "^1.6.0",
+		"@nuxt/ui": "^3.2.0",
+		"eslint": "^9.31.0",
+		"nuxt": "^4.0.0",
+		"typescript": "^5.8.3",
+		"vue": "^3.5.17",
+		"vue-router": "^4.5.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GenbuHase/Want.git"
+	},
+	"author": "長谷 玄武 (Genbu Hase)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/GenbuHase/Want/issues"
+	},
+	"homepage": "https://github.com/GenbuHase/Want#readme"
+}
