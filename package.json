@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@genbuhase/want",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "「したい」をシェアするサービス",
 	"type": "module",
 	"scripts": {
