@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@genbuhase/want",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "「したい」をシェアするサービス",
 	"type": "module",
 	"scripts": {
@@ -29,5 +29,8 @@
 	"bugs": {
 		"url": "https://github.com/GenbuHase/Want/issues"
 	},
-	"homepage": "https://github.com/GenbuHase/Want#readme"
+	"homepage": "https://github.com/GenbuHase/Want#readme",
+	"devDependencies": {
+		"prettier": "^3.6.2"
+	}
 }
